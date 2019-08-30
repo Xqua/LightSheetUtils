@@ -5,7 +5,6 @@ import os
 import sys
 import numpy as np
 from optparse import OptionParser
-from skimage.io._plugins import freeimage_plugin as freeimg
 
 
 parser = OptionParser()
